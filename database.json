@@ -1,0 +1,160 @@
+[
+    {
+        "name": "dev kushwaha",
+        "age": 21,
+        "mail": "devkushwaha@3125gmail.com",
+        "balance": 201000,
+        "accountno.": "QFKE19755701",
+        "number": 9238394624,
+        "pin": 1234,
+        "transactions": [
+            {
+                "type": "deposit",
+                "amount": 10000,
+                "balance_after": 201000,
+                "note": "Cash deposit",
+                "time": "Jul 22, 2026 \u00b7 12:09 AM"
+            },
+            {
+                "type": "deposit",
+                "amount": 10000,
+                "balance_after": 191000,
+                "note": "Cash deposit",
+                "time": "Jul 22, 2026 \u00b7 12:09 AM"
+            },
+            {
+                "type": "deposit",
+                "amount": 10000,
+                "balance_after": 181000,
+                "note": "Cash deposit",
+                "time": "Jul 22, 2026 \u00b7 12:09 AM"
+            },
+            {
+                "type": "deposit",
+                "amount": 10000,
+                "balance_after": 171000,
+                "note": "Cash deposit",
+                "time": "Jul 22, 2026 \u00b7 12:09 AM"
+            },
+            {
+                "type": "deposit",
+                "amount": 10000,
+                "balance_after": 161000,
+                "note": "Cash deposit",
+                "time": "Jul 22, 2026 \u00b7 12:09 AM"
+            },
+            {
+                "type": "deposit",
+                "amount": 10000,
+                "balance_after": 151000,
+                "note": "Cash deposit",
+                "time": "Jul 22, 2026 \u00b7 12:09 AM"
+            },
+            {
+                "type": "deposit",
+                "amount": 10000,
+                "balance_after": 141000,
+                "note": "Cash deposit",
+                "time": "Jul 22, 2026 \u00b7 12:09 AM"
+            },
+            {
+                "type": "deposit",
+                "amount": 10000,
+                "balance_after": 131000,
+                "note": "Cash deposit",
+                "time": "Jul 22, 2026 \u00b7 12:08 AM"
+            },
+            {
+                "type": "deposit",
+                "amount": 10000,
+                "balance_after": 121000,
+                "note": "Cash deposit",
+                "time": "Jul 22, 2026 \u00b7 12:08 AM"
+            },
+            {
+                "type": "deposit",
+                "amount": 10000,
+                "balance_after": 111000,
+                "note": "Cash deposit",
+                "time": "Jul 22, 2026 \u00b7 12:08 AM"
+            },
+            {
+                "type": "deposit",
+                "amount": 10000,
+                "balance_after": 101000,
+                "note": "Cash deposit",
+                "time": "Jul 22, 2026 \u00b7 12:08 AM"
+            },
+            {
+                "type": "deposit",
+                "amount": 10000,
+                "balance_after": 91000,
+                "note": "Cash deposit",
+                "time": "Jul 22, 2026 \u00b7 12:08 AM"
+            },
+            {
+                "type": "deposit",
+                "amount": 10000,
+                "balance_after": 81000,
+                "note": "Cash deposit",
+                "time": "Jul 22, 2026 \u00b7 12:08 AM"
+            },
+            {
+                "type": "deposit",
+                "amount": 10000,
+                "balance_after": 71000,
+                "note": "Cash deposit",
+                "time": "Jul 22, 2026 \u00b7 12:08 AM"
+            },
+            {
+                "type": "deposit",
+                "amount": 10000,
+                "balance_after": 61000,
+                "note": "Cash deposit",
+                "time": "Jul 22, 2026 \u00b7 12:08 AM"
+            },
+            {
+                "type": "deposit",
+                "amount": 10000,
+                "balance_after": 51000,
+                "note": "Cash deposit",
+                "time": "Jul 22, 2026 \u00b7 12:08 AM"
+            },
+            {
+                "type": "deposit",
+                "amount": 10000,
+                "balance_after": 41000,
+                "note": "Cash deposit",
+                "time": "Jul 22, 2026 \u00b7 12:08 AM"
+            },
+            {
+                "type": "deposit",
+                "amount": 10000,
+                "balance_after": 31000,
+                "note": "Cash deposit",
+                "time": "Jul 22, 2026 \u00b7 12:08 AM"
+            },
+            {
+                "type": "deposit",
+                "amount": 10000,
+                "balance_after": 21000,
+                "note": "Cash deposit",
+                "time": "Jul 22, 2026 \u00b7 12:08 AM"
+            },
+            {
+                "type": "deposit",
+                "amount": 10000,
+                "balance_after": 11000,
+                "note": "Cash deposit",
+                "time": "Jul 22, 2026 \u00b7 12:08 AM"
+            },
+            {
+                "type": "deposit",
+                "amount": 1000,
+                "balance_after": 1000,
+                "note": "Cash deposit",
+                "time": "Jul 22, 2026 \u00b7 12:08 AM"
+            }
+        ]
+    }
+]
